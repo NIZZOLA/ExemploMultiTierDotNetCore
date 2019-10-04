@@ -1,0 +1,7 @@
+D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Repository.deps.json
+D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Repository.dll
+D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.csprojAssemblyReference.cache
+D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.csproj.CoreCompileInputs.cache
+D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.AssemblyInfoInputs.cache
+D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.AssemblyInfo.cs
+D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Domain.dll

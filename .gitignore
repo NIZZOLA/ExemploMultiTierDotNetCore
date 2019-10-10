@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExemploMultiTier.Domain/ExemploMultiTier.Domain/bin/Debug/netcoreapp2.1

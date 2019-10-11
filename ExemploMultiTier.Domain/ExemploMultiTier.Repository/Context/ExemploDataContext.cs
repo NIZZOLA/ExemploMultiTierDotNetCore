@@ -11,7 +11,7 @@ namespace ExemploMultiTier.Repository.Context
     {
         public ExemploDataContext(DbContextOptions options ) : base(options)
         {
-            
+                
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -20,6 +20,9 @@ namespace ExemploMultiTier.Repository.Context
             modelBuilder.ApplyConfiguration(new ActivityConfig());
                 
         }
+
+        public DbSet<AccountModel> Accounts { get; set; }
+        public DbSet<ActivityModel> Activitites { get; set; }
 
     }
 }

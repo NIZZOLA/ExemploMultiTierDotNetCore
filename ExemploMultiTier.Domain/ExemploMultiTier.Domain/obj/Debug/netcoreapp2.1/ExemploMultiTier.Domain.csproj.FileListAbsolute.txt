@@ -1,0 +1,9 @@
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\bin\Debug\netcoreapp2.1\ExemploMultiTier.Domain.deps.json
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\bin\Debug\netcoreapp2.1\ExemploMultiTier.Domain.dll
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\bin\Debug\netcoreapp2.1\ExemploMultiTier.Domain.pdb
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\obj\Debug\netcoreapp2.1\ExemploMultiTier.Domain.csprojAssemblyReference.cache
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\obj\Debug\netcoreapp2.1\ExemploMultiTier.Domain.csproj.CoreCompileInputs.cache
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\obj\Debug\netcoreapp2.1\ExemploMultiTier.Domain.AssemblyInfoInputs.cache
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\obj\Debug\netcoreapp2.1\ExemploMultiTier.Domain.AssemblyInfo.cs
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\obj\Debug\netcoreapp2.1\ExemploMultiTier.Domain.dll
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Domain\obj\Debug\netcoreapp2.1\ExemploMultiTier.Domain.pdb

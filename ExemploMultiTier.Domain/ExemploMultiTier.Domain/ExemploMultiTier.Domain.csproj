@@ -6,7 +6,11 @@
 
   <ItemGroup>
     <Folder Include="Helpers\" />
-    <Folder Include="Validator\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentResults" Version="1.2.0" />
+    <PackageReference Include="FluentValidation" Version="8.5.0" />
   </ItemGroup>
 
 </Project>

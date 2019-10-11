@@ -5,3 +5,17 @@ D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Reposi
 D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.AssemblyInfoInputs.cache
 D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.AssemblyInfo.cs
 D:\Nizzola\Etec_ExemploMultiTier\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Domain.dll
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.csprojAssemblyReference.cache
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.csproj.CoreCompileInputs.cache
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.AssemblyInfoInputs.cache
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.AssemblyInfo.cs
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Repository.deps.json
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Repository.runtimeconfig.json
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Repository.runtimeconfig.dev.json
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Repository.dll
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Repository.pdb
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Domain.dll
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\bin\Debug\netcoreapp2.1\ExemploMultiTier.Domain.pdb
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.csproj.CopyComplete
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.dll
+D:\Nizzola\ExemploMultiTierDotNetCore\ExemploMultiTier.Domain\ExemploMultiTier.Repository\obj\Debug\netcoreapp2.1\ExemploMultiTier.Repository.pdb

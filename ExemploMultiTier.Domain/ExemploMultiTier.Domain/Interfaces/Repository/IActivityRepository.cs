@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ExemploMultiTier.Domain.Interfaces.Repository
 {
-    interface IActivityRepository : IBaseRepository<ActivityModel>
+    public interface IActivityRepository : IBaseRepository<ActivityModel>
     {
 
     }

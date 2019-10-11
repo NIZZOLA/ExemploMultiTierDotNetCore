@@ -2,6 +2,27 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
+      "FluentResults/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FluentResults.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentResults.dll": {}
+        }
+      },
+      "FluentValidation/8.5.0": {
+        "type": "package",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -793,6 +814,10 @@
       "ExemploMultiTier.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "FluentResults": "1.2.0",
+          "FluentValidation": "8.5.0"
+        },
         "compile": {
           "bin/placeholder/ExemploMultiTier.Domain.dll": {}
         },
@@ -803,6 +828,37 @@
     }
   },
   "libraries": {
+    "FluentResults/1.2.0": {
+      "sha512": "gfn5gFOLOMNLq5RizM0j3zWod7C9sm+WxsdSXnia0FKO+K6qQ5DdmN/c1ajHu3ihdhRktffWb93PCjgNOy079A==",
+      "type": "package",
+      "path": "fluentresults/1.2.0",
+      "files": [
+        ".signature.p7s",
+        "fluentresults.1.2.0.nupkg.sha512",
+        "fluentresults.nuspec",
+        "lib/net45/FluentResults.dll",
+        "lib/netstandard1.1/FluentResults.dll",
+        "lib/netstandard2.0/FluentResults.dll"
+      ]
+    },
+    "FluentValidation/8.5.0": {
+      "sha512": "NVMvFn37UcTQqeiAt4TIFajbGcVzYvvG4MR9q9Nm96E68yp0gVIF+oWEM2GQmn1siRGrf+mgJwQmbBaHcCblDQ==",
+      "type": "package",
+      "path": "fluentvalidation/8.5.0",
+      "files": [
+        ".signature.p7s",
+        "fluentvalidation.8.5.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net45/FluentValidation.dll",
+        "lib/net45/FluentValidation.xml",
+        "lib/netstandard1.1/FluentValidation.dll",
+        "lib/netstandard1.1/FluentValidation.xml",
+        "lib/netstandard1.6/FluentValidation.dll",
+        "lib/netstandard1.6/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
       "type": "package",
@@ -3105,11 +3161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nizzola\\Etec_ExemploMultiTier\\ExemploMultiTier.Domain\\ExemploMultiTier.Repository\\ExemploMultiTier.Repository.csproj",
+      "projectUniqueName": "D:\\Nizzola\\ExemploMultiTierDotNetCore\\ExemploMultiTier.Domain\\ExemploMultiTier.Repository\\ExemploMultiTier.Repository.csproj",
       "projectName": "ExemploMultiTier.Repository",
-      "projectPath": "D:\\Nizzola\\Etec_ExemploMultiTier\\ExemploMultiTier.Domain\\ExemploMultiTier.Repository\\ExemploMultiTier.Repository.csproj",
+      "projectPath": "D:\\Nizzola\\ExemploMultiTierDotNetCore\\ExemploMultiTier.Domain\\ExemploMultiTier.Repository\\ExemploMultiTier.Repository.csproj",
       "packagesPath": "C:\\Users\\Controle\\.nuget\\packages\\",
-      "outputPath": "D:\\Nizzola\\Etec_ExemploMultiTier\\ExemploMultiTier.Domain\\ExemploMultiTier.Repository\\obj\\",
+      "outputPath": "D:\\Nizzola\\ExemploMultiTierDotNetCore\\ExemploMultiTier.Domain\\ExemploMultiTier.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3128,8 +3184,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Nizzola\\Etec_ExemploMultiTier\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain.csproj": {
-              "projectPath": "D:\\Nizzola\\Etec_ExemploMultiTier\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain.csproj"
+            "D:\\Nizzola\\ExemploMultiTierDotNetCore\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain.csproj": {
+              "projectPath": "D:\\Nizzola\\ExemploMultiTierDotNetCore\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain\\ExemploMultiTier.Domain.csproj"
             }
           }
         }

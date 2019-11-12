@@ -1,44 +1,15 @@
 ﻿using ExemploMultiTier.Domain.Interfaces.Repository;
 using ExemploMultiTier.Domain.Models;
+using FluentResults;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ExemploMultiTier.Repository.Repository
 {
-    public class AccountRepository : IAccountRepository
+    public class AccountRepository : BaseRepository<AccountModel>, IAccountRepository
     {
-        public bool Delete(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Dispose()
-        {
-            throw new NotImplementedException();
-        }
-
-        public ICollection<AccountModel> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public AccountModel GetOne(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public decimal GetSaldo(int accountId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public AccountModel Insert(AccountModel account)
-        {
-            throw new NotImplementedException();
-        }
-
-        public AccountModel Update(AccountModel account)
+        public Result<decimal> GetSaldo(int accountId)
         {
             throw new NotImplementedException();
         }

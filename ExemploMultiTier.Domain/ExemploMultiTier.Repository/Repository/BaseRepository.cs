@@ -1,5 +1,6 @@
 ﻿using ExemploMultiTier.Domain.Interfaces.Repository;
 using ExemploMultiTier.Repository.Context;
+using FluentResults;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,7 @@ namespace ExemploMultiTier.Repository.Repository
         protected ExemploDataContext Db;
         protected DbSet<TEntity> DbSet;
 
-        public bool Delete(int id)
+        public Result<bool> Delete(int id)
         {
             throw new NotImplementedException();
         }
@@ -22,22 +23,22 @@ namespace ExemploMultiTier.Repository.Repository
             throw new NotImplementedException();
         }
 
-        public ICollection<TEntity> GetAll()
+        public Result<ICollection<TEntity>> GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public TEntity GetOne(int id)
+        public Result<TEntity> GetOne(int id)
         {
             throw new NotImplementedException();
         }
 
-        public TEntity Insert(TEntity account)
+        public Result<TEntity> Insert(TEntity account)
         {
             throw new NotImplementedException();
         }
 
-        public TEntity Update(TEntity account)
+        public Result<TEntity> Update(TEntity account)
         {
             throw new NotImplementedException();
         }

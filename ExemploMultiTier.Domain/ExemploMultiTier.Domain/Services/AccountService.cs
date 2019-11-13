@@ -49,7 +49,7 @@ namespace ExemploMultiTier.Domain.Services
             var businessResult = new AccountBusinessValidator().Validate(account);
             if( ! businessResult.IsValid )
             {
-
+                return Results.Fail<AccountModel>(businessResult.Errors.ToString());
             }
 
             var result = _accountRep.Insert(account);

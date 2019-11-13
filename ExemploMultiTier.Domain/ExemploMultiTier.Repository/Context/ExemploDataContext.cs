@@ -18,7 +18,7 @@ namespace ExemploMultiTier.Repository.Context
         {
             modelBuilder.ApplyConfiguration(new AccountConfig());
             modelBuilder.ApplyConfiguration(new ActivityConfig());
-                
+            base.OnModelCreating(modelBuilder);    
         }
 
         public DbSet<AccountModel> Accounts { get; set; }

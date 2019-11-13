@@ -1,10 +1,12 @@
-﻿using System;
+﻿using ExemploMultiTier.Domain.Models;
+using FluentValidation;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ExemploMultiTier.Domain.Validator
 {
-    public class AccountBusinessValidator 
+    public class AccountBusinessValidator : AbstractValidator<AccountModel>
     {
 
     }
